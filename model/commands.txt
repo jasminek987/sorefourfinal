@@ -1,0 +1,2 @@
+javac model/*.java
+java model.MainMenu
